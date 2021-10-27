@@ -16,6 +16,12 @@ Virtual
 ##### Date:
 October 23rd, 2021
 
+### Battle of the Brains Solution Sketches (for more detailed solutions to all problems)
+https://utdallas.app.box.com/s/devzi0g55bl56dc2vynqusmw6veq15pk
+
+### Full Results
+https://docs.google.com/spreadsheets/d/1ySMl9LUx0RtY30dEpMXmFIBJEUmXjQc-3NX651p6l-A/edit#gid=0
+
 ### Team Statistics for each Problem:
 ##### Problem A: Hermits
 Solved by: David Z.
@@ -67,10 +73,8 @@ Link: https://open.kattis.com/contests/vm8cd3/problems/knotknowledge
 
 ##### Problem I: Alehouse
 Solved by: David Z. & Daniel C.
-Time: 144 minutes
-Attempts: 3
+Time: 144 minutes 
+Attempts: 3 
 Link: https://open.kattis.com/contests/vm8cd3/problems/alehouse
 
 
-### Battle of the Brains Solution Sketches (for more detailed solutions to all problems)
-https://utdallas.app.box.com/s/devzi0g55bl56dc2vynqusmw6veq15pk
