@@ -38,7 +38,7 @@ Link: https://open.kattis.com/contests/vm8cd3/problems/fire3
 ##### Problem C: Grazed Grains
 Solved by: Sam L. & David Z.
 Time: 9 minutes
-Attempts: 71
+Attempts: 1
 Link: https://open.kattis.com/contests/vm8cd3/problems/grazedgrains
 
 ##### Problem D: Mountain Scenes
@@ -76,5 +76,3 @@ Solved by: David Z. & Daniel C.
 Time: 144 minutes 
 Attempts: 3 
 Link: https://open.kattis.com/contests/vm8cd3/problems/alehouse
-
-
